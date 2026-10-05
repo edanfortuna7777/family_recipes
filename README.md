@@ -1,3 +1,7 @@
-# Family secret recipes
+# Graham's Family secret recipes
 
-set of recipes as given by my grandma.
+set of recipes as given by my grandma.  
+
+* pizzas(TODO)
+* sauces (TODO)
+* spreads (TODO)
